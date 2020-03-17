@@ -2,9 +2,9 @@
 I have developed a sample application to Add, Fetch and search contacts using coredata
 
 <p align="center">
-<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/tree/master/ScreenShots/aadContact.png" width="33%" height="70%"/>
-<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/tree/master/ScreenShots/listContacts.png" width="33%" height="70%"/>
-<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/tree/master/ScreenShots/searchContacts.png" width="33%" height="70%"/>
+<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/blob/master/ScreenShots/aadContact.png" width="33%" height="70%"/>
+<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/blob/master/ScreenShots/listContacts.png" width="33%" height="70%"/>
+<img src="https://github.com/shankarmadeshvaran/Contacts_CoreData/blob/master/ScreenShots/searchContacts.png" width="33%" height="70%"/>
 </p>
 
 ## More Updates
